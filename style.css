@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Jacques Francois Shadow" ;
+    src: url("font/JacquesFrancoisShadow-Regular.ttf");
+}
+p{
+    font-family: "Jacques Francois Shadow";
+    width: 813px;
+    height: 28px;
+    font-size: 20px;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Original Surfer";
+    src: url(font/OriginalSurfer-Regular.ttf);
+}
+.p2{
+font-family: "Original Surfer";
+width: 1257px;
+height: 47px;
+font-size: 16px;
+font-weight: 400;
+
+}
+@font-face {
+    font-family: "Play";
+    src: url(font/Play-Regular.ttf);
+}
+.p3{
+font-family: Play;
+    width: 1260px;
+height: 46px;
+font-size: 16px;
+font-weight: 400;
+
+}
